@@ -1,0 +1,13 @@
+074853cb0949f57075430fb5c2dcccb9 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+1ced6862512eb15727d3addb784e53cb *R/DBF_test.R
+441024a686d950e4707f8402ee84c7c2 *man/DBF.Rd
+a2be8a1139f966cf1ad3e28a84c6e3f5 *man/DBF.test.Rd
+0f5e301000ba0537af20abf8d4b8d935 *man/DBFTest-package.Rd
+060bf8ffa271632f4baddf182aa3c613 *man/cdf.F.Rd
+b3b1f68b961f47b484118359b1ef4c16 *man/create.G.Rd
+32cc3d845089ac59d00df68af2acc02f *man/make.H.Rd
+4e38c6ceb6b7006c8afc162f906d4e18 *man/norm.matrix.Rd
+fa12901ecbf6f62164286be1aaf19528 *man/pdf.F.Rd
+9d0e91899bfff6c8996068d5ef42e52e *man/perm.info.tr.AB.Rd
+e597a2b8eef65a66c5453a40f67847af *man/trace.matrix.Rd
